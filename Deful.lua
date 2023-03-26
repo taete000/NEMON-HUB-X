@@ -31,7 +31,7 @@ local Library = {
             Color3.fromHex("#ff0000"), -- Color3.fromHex("#a280d9"), -- Color3.fromRGB(255, 42, 10), Color3.fromHex("#3599d4")
             Color3.fromRGB(180, 156, 255),
             Color3.fromRGB(114, 0, 198),
-            Color3.fromRGB(139, 130, 185),
+            Color3.fromRGB(255, 255, 255),
             Color3.fromHex("#a83299")
         },
         Notification = {
@@ -40,12 +40,12 @@ local Library = {
         },
         Hitbox = Color3.fromRGB(69, 69, 69),
         Friend = Color3.fromRGB(0, 200, 0),
-        Outline = Color3.fromHex("#000005"),
-        Inline = Color3.fromHex("#3c3c3c"),
-        LightContrast = Color3.fromHex("#231946"),
-        DarkContrast = Color3.fromHex("#191432"),
-        Text = Color3.fromHex("#c8c8ff"),
-        TextInactive = Color3.fromHex("#afafaf"),
+        Outline = Color3.fromHex("#ff0000"),
+        Inline = Color3.fromHex("#000000"),
+        LightContrast = Color3.fromHex("#000000"),
+        DarkContrast = Color3.fromHex("#000000"),
+        Text = Color3.fromHex("#000000"),
+        TextInactive = Color3.fromHex("#000000"),
         Font = Drawing.Fonts.Plex,
         TextSize = 13,
         UseOutline = true
