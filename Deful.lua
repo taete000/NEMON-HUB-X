@@ -4386,11 +4386,11 @@ do
                         Library:UpdateTheme({
                             Accent = Color3.fromHex("#ff0000"),
                             Outline = Color3.fromHex("#ff0000"),
-                            Inline = Color3.fromHex("#000000"),
-                            LightContrast = Color3.fromHex("#000000"),
-                            DarkContrast = Color3.fromHex("#000000"),
-                            Text = Color3.fromHex("#000000"),
-                            TextInactive = Color3.fromHex("#000000")
+                            Inline = Color3.fromHex("#ffffff"),
+                            LightContrast = Color3.fromHex("#ffffff"),
+                            DarkContrast = Color3.fromHex("#ffffff"),
+                            Text = Color3.fromHex("#ffffff"),
+                            TextInactive = Color3.fromHex("#ffffff")
                         })          
                     end
                 end
