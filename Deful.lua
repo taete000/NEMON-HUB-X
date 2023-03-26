@@ -4315,12 +4315,12 @@ do
 
             local LocalTheme = {
                 Accent = Library.Theme.Accent[1],
-                Outline = Color3.fromHex("#000005"),
-                Inline = Color3.fromHex("#323232"),
-                LightContrast = Color3.fromHex("#202020"),
-                DarkContrast = Color3.fromHex("#191919"),
-                Text = Color3.fromHex("#e8e8e8"),
-                TextInactive = Color3.fromHex("#aaaaaa")
+                Outline = Color3.fromHex("#ff0000"),
+                Inline = Color3.fromHex("#ff0000"),
+                LightContrast = Color3.fromHex("#000000"),
+                DarkContrast = Color3.fromHex("#000000"),
+                Text = Color3.fromHex("#ffffff"),
+                TextInactive = Color3.fromHex("#ffffff")
             }
 
             local Settings = Window:Tab("Settings")
